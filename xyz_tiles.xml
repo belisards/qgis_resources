@@ -1,0 +1,31 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles referer="" url="http://ecn.t3.tiles.virtualearth.net/tiles/a%7Bq%7D.jpeg?g=1" username="" zmax="19" tilePixelRatio="0" name="Bing Virtual Earth" password="" zmin="1" authcfg=""/>
+    <xyztiles referer="" url="http://basemaps.cartocdn.com/dark_all/%7Bz%7D/%7Bx%7D/%7By%7D.png" username="" zmax="20" tilePixelRatio="0" name="Cartodb Dark" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://basemaps.cartocdn.com/light_all/%7Bz%7D/%7Bx%7D/%7By%7D.png" username="" zmax="20" tilePixelRatio="0" name="Cartodb Light" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" username="" zmax="19" tilePixelRatio="0" name="ESRI Terrain" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" username="" zmax="19" tilePixelRatio="0" name="ESRI Topo World" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" username="" zmax="19" tilePixelRatio="0" name="ESRI World Dark Gray" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" username="" zmax="19" tilePixelRatio="0" name="ESRI World Imagery" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" username="" zmax="19" tilePixelRatio="0" name="ESRI World Light Gray" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://services.arcgisonline.com/ArcGIS/rest/services/Ocean/World_Ocean_Base/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" username="" zmax="19" tilePixelRatio="0" name="ESRI World Ocean" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://realearth.ssec.wisc.edu/tiles/globalir/{z}/{x}/{y}.png" username="" zmax="19" tilePixelRatio="0" name="Global Infrared" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://realearth.ssec.wisc.edu/tiles/NightLightsColored/{z}/{x}/{y}.png" username="" zmax="19" tilePixelRatio="0" name="Global Night Light" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://mt1.google.com/vt/lyrs=m%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" username="" zmax="19" tilePixelRatio="0" name="Google Map" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://mt1.google.com/vt/lyrs=s%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" username="" zmax="19" tilePixelRatio="0" name="Google Satellite" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://mt1.google.com/vt/lyrs=y%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" username="" zmax="19" tilePixelRatio="0" name="Google Satellite Hybrid" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://mt1.google.com/vt/lyrs=t%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" username="" zmax="19" tilePixelRatio="0" name="Google Terrain" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://mt1.google.com/vt/lyrs=p%26x=%7Bx%7D%26y=%7By%7D%26z=%7Bz%7D" username="" zmax="19" tilePixelRatio="0" name="Google Terrain Hybrid" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://realearth.ssec.wisc.edu/tiles/VIIRS-MASK-54000x27000/{z}/{x}/{y}.png" username="" zmax="19" tilePixelRatio="0" name="NASA Night Black Marble" password="" zmin="1" authcfg=""/>
+    <xyztiles referer="" url="http://tile.openstreetmap.fr/hot/%7Bz%7D/%7Bx%7D/%7By%7D.png" username="" zmax="19" tilePixelRatio="0" name="OpenStreetMap Hot" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://tiles.wmflabs.org/bw-mapnik/%7Bz%7D/%7Bx%7D/%7By%7D.png" username="" zmax="19" tilePixelRatio="0" name="OpenStreetMap Monochrome" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://tile.stamen.com/terrain/%7Bz%7D/%7Bx%7D/%7By%7D.png" username="" zmax="20" tilePixelRatio="0" name="Stamen Terrain" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://tile.stamen.com/toner/%7Bz%7D/%7Bx%7D/%7By%7D.png" username="" zmax="20" tilePixelRatio="0" name="Stamen Toner" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://tile.stamen.com/toner-lite/%7Bz%7D/%7Bx%7D/%7By%7D.png" username="" zmax="20" tilePixelRatio="0" name="Stamen Toner Lite" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://tile.stamen.com/watercolor/%7Bz%7D/%7Bx%7D/%7By%7D.jpg" username="" zmax="18" tilePixelRatio="0" name="Stamen Water Color" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://ecn.t3.tiles.virtualearth.net/tiles/a{q}.jpeg?g%3D0%26dir%3Ddir_n'" username="" zmax="18" tilePixelRatio="0" name="bing_satellite" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="http://ecn.dynamic.t0.tiles.virtualearth.net/comp/CompositionHandler/{q}?mkt%3Den-us%26it%3DG,VE,BX,L,LA%26shading%3Dhill" username="" zmax="18" tilePixelRatio="0" name="bing_streets" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}" username="" zmax="18" tilePixelRatio="0" name="esri_satellite" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}" username="" zmax="18" tilePixelRatio="0" name="esri_standard" password="" zmin="0" authcfg=""/>
+    <xyztiles referer="" url="https://tile.openstreetmap.org/{z}/{x}/{y}.png" username="" zmax="19" tilePixelRatio="0" name="OpenStreetMap" password="" zmin="0" authcfg=""/>
+</qgsXYZTilesConnections>
