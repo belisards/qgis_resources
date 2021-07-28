@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qgsWFSConnections version="1.0">
+<wfs password="" referer="" username="" name="ANATEL - Agência Nacional de Telecomunicações" url="http://sistemas.anatel.gov.br:80/geoserver/ANATEL/ows"/>
+<wfs password="" referer="" username="" name="BNDES - Banco Nacional de Desenvolvimento Econômico e Social" url="https://geoservicos.inde.gov.br/geoserver/BNDES/ows"/>
+<wfs password="" referer="" username="" name="CENSIPAM - Centro Gestor e Operacional do Sistema de Proteção da Amazônia" url="http://panorama.sipam.gov.br/geoserver/publico/ows/"/>
+<wfs password="" referer="" username="" name="CMR/Funai - Centro de Monitoramento Remoto" url="http://cmr.funai.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="CPRM -  Serviço Geológico do Brasil" url="https://geoservicos.cprm.gov.br/geoserver/geologia/ows/"/>
+<wfs password="" referer="" username="" name="EMBRAPA Algodão - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cnpa.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Amazônia Oriental - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cpatu.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Caprinos e Ovinos - Empresa Brasileira de Pesquisa Agropecuária" url="http://atlas.geoinfo.cnpm.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Clima Temperado - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cpact.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Florestas - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cnpf.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA  Gado de Leite - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cnpgl.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA  Informática Agropecuária - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cnptia.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Meio Ambiente - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cnpma.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Pecuária Sudeste  - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cppse.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Rondônia  - Empresa Brasileira de Pesquisa Agropecuária" url="http://atlas.geoinfo.cnpm.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Solos - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cnps.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Tabuleiros Costeiros  - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cpatc.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="EPE - Empresa de Pesquisa Energética" url="https://geoservicos.inde.gov.br/geoserver/EPE/ows"/>
+<wfs password="" referer="" username="" name="EMBRAPA Territorial  - Empresa Brasileira de Pesquisa Agropecuária" url="http://geoinfo.cnpm.embrapa.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="IBAMA - Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis" url="http://siscom.ibama.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="IBGE - Instituto Brasileiro de Geografia e Estatística" url="https://geoservicos.ibge.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="ICA - Instituto de Cartografia Aeronáutica" url="http://geoaisweb.decea.gov.br/geoserver/ICA/ows"/>
+<wfs password="" referer="" username="" name="INPE - Instituto Nacional de Pesquisas Espaciais" url="http://terrabrasilis.dpi.inpe.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="IPHAN - Instituto do Patrimônio Histórico e Artístico Nacional" url="http://portal.iphan.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="MAPA - Ministério da Agricultura, Pecuária e Abastecimento" url="https://geoservicos.ibge.gov.br/geoserver/MAPA/ows"/>
+<wfs password="" referer="" username="" name="MB/DHN - Diretoria de Hidrografia e Navegação" url="https://geoservicos.inde.gov.br/geoserver/DHN/ows"/>
+<wfs password="" referer="" username="" name="MB/DPC- Diretoria de Portos e Costas" url="https://geoservicos.inde.gov.br/geoserver/DPC/ows"/>
+<wfs password="" referer="" username="" name="MDIC - Ministério do Desenvolvimento da Indústria e do Comércio" url="https://geoservicos.inde.gov.br/geoserver/MDIC/ows"/>
+<wfs password="" referer="" username="" name="MP - Ministério de Planejamento, Desenvolvimento e Gestão" url="https://geoservicos.inde.gov.br/geoserver/MPOG/ows"/>
+<wfs password="" referer="" username="" name="IBGE/ODS - Objetivos de Desenvolvimento Sustentável" url="https://geoservicos.ibge.gov.br/geoserver/ODS/ows"/>
+<wfs password="" referer="" username="" name="SFB - Serviço Florestal do Brasil" url="http://sistemas.florestal.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="SPM - Secretaria Nacional de Políticas para as Mulheres" url="https://geoservicos.inde.gov.br/geoserver/SPM/ows"/>
+<wfs password="" referer="" username="" name="CELEPAR/PR - Companhia de Tecnologia da Informação e Comunicação" url="http://geoserver.pr.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="IDE/ES-GEOBASES - Sistema Integrado de Bases Geoespaciais do Estado do Espírito Santo" url="https://ide.geobases.es.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="IDE/Sisema- Sistema Estadual de Meio Ambiente e Recursos Hídricos(MG)" url="https://geoserver.meioambiente.mg.gov.br/ows/"/>
+<wfs password="" referer="" username="" name="IDEA/SP - Infraestrutura de Dados Espaciais Ambientais do Estado de São Paulo" url="http://datageo.ambiente.sp.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="IDE/SP - Infraestrutura de Dados Espaciais de São Paulo" url="https://ide.emplasa.sp.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="INEA/RJ - Instituto Estadual do Ambiente" url="https://geoservicos.inde.gov.br/geoserver/INEA/ows"/>
+<wfs password="" referer="" username="" name="PRODEMG - Companhia de Tecnologia da Informação do Estado de Minas Gerais" url="http://geoserver.prodemge.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="SEMACE/CE -Superintendência Estadual do Meio Ambiente do Ceará" url="https://geoservicos.inde.gov.br/geoserver/SEMACECE/ows"/>
+<wfs password="" referer="" username="" name="SEFIN - Secretaria Municipal das Finanças de Fortaleza" url="https://geoserver.sefin.fortaleza.ce.gov.br/geoserver/ows"/>
+<wfs password="" referer="" username="" name="Prefeitura de Belo Horizonte (MG)" url="http://bhmap.pbh.gov.br/v2/api/idebhgeo/ows"/>
+<wfs password="" referer="" username="" name="UFABC/SP - Universidade Federal do ABC" url="https://geoservicos.inde.gov.br/geoserver/UFABC/ows"/>
+</qgsWFSConnections>

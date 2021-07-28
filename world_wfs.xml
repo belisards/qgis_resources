@@ -1,0 +1,17 @@
+<!DOCTYPE connections>
+<qgsWFSConnections version="1.0">
+	<wfs password="" referer="" username="" url="https://gis.lesprojekt.cz/wms/transport/traffic_volumes" name="World - gis.lesprojekt.cz - lesprojekt.cz"/>
+	<wfs password="" referer="" username="" url="https://gis.lesprojekt.cz/wms/transport/open_transport_map" name="World - gis.lesprojekt.cz - OpenTransportMap"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/EUHydro/RiverBasine/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/Elevation/Aspect/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS [2]"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/Elevation/Hillshade/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS [3]"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/Elevation/Slope/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS [4]"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/GioLand/2012_Coverage1_20m/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS [5]"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/GioLandPublic/Lucas2012/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS [6]"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/RiparianZones/DEL/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS [7]"/>
+	<wfs password="" referer="" username="" url="https://image.discomap.eea.europa.eu/arcgis/services/RiparianZones/GLE/MapServer/WFSServer" name="World - image.discomap.eea.europa.eu - WFS [8]"/>
+	<wfs password="" referer="" username="" url="https://demo.mapserver.org/cgi-bin/wfs" name="World - Gateway Geomatics - WMS Demo Server for MapServer"/>
+	<wfs password="" referer="" username="" url="https://opendata.hcmgis.vn/geoserver/ows" name="World - HCMGIS - HCMGIS OpenData - Geospatial Open Data Sharing Platform"/>
+	<wfs password="" referer="" username="" url="https://maps.eo.esa.int/geoserver/ows" name="World - The Ancient Geographers - GeoServer Web Feature Service"/>
+	<wfs password="" referer="" username="" url="https://geo.vliz.be/geoserver/MarineRegions/wfs" name="World - VLIZ - Flanders Marine Institute (VLIZ) - WFS Service"/>
+</qgsWFSConnections>
